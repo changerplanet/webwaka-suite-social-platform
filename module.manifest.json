@@ -1,0 +1,12 @@
+{
+  "moduleId": "webwaka_suite_social_platform",
+  "class": "suite",
+  "version": "0.1.0",
+  "capabilities": [],
+  "dependencies": [],
+  "metadata": {
+    "repository": "https://github.com/changerplanet/webwaka-suite-social-platform",
+    "created": "2026-01-20",
+    "status": "substrate"
+  }
+}
